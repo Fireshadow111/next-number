@@ -3,7 +3,7 @@
         let calButton = document.getElementById('calButton');
 
       //Creating array
-        let numArray = [1, 7, 11, 22, 44, 77];
+        let numArray = [1, 4, 7, 11, 22, 44, 77, 99, 101, 111];
         let i = 0
 
         //function, if i is less than the array length then it will cycle through the array
